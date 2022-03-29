@@ -44,7 +44,6 @@ class _MyHomePageState extends State<MyHomePage> {
                 key: UniqueKey(),
                 child: Text(
                   "$strochka - Stroka",
-                  textAlign: TextAlign.center,
                   style: const TextStyle(
                       fontSize: 20, fontWeight: FontWeight.w800),
                 ),
